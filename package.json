@@ -1,0 +1,14 @@
+{
+  "name": "fuckoff-bot",
+  "version": "1.0.0",
+  "description": "Bot that will tell Jeremy he's the worst.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Emma Lampert",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.79.0"
+  }
+}
